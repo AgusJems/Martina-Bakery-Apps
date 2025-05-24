@@ -44,8 +44,8 @@ const Home = () => {
                         data-aos-duration="400"
                         data-aos-once="true"
                         className="flex flex-col justify-center gap-4 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:order-1">
-                            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold">Welcome to </h1>
-                            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold"> <span className="font-[Merienda] text-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">Martina Bakery</span></h1>
+                            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold">Welcome to </h1>
+                            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold"> <span className="font-[Merienda] text-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">Martina Bakery</span></h1>
                             <p className="text-sm">Martina Bakery adalah perpaduan antara rasa autentik dan tampilan elegan. Kami menghadirkan aneka kue dan roti dengan kualitas terbaik, dibuat dengan cinta dan bahan pilihan, untuk setiap momen spesial Anda.</p>
                             <div>
                                 <button className="bg-gradient-to-r from-primary to-secondary text-white px-4 py-2 rounded-full hover:scale-105 duration-200"> Order Now</button>
