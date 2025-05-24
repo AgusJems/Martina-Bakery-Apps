@@ -1,7 +1,7 @@
 import React from 'react';
-import Img1 from "../../assets/website/birthday-cake.png";
-import Img2 from "../../assets/website/brownies.png";
-import Img3 from "../../assets/website/bolu.png";
+import Img1 from "../../../public/website/birthday-cake.png";
+import Img2 from "../../../public/website/brownies.png";
+import Img3 from "../../../public/website/bolu.png";
 
 const BoluCakeData = [ 
     {
@@ -69,7 +69,11 @@ const BoluCake = () => {
                                     <div className="p-4 text-center">
                                         <h1 className="text-xl font-bold">{name}</h1>
                                         <p className="text-gray-500 group-hover:text-white duration-300 text-sm line-clamp-2 mb-3">{description}</p>
-                                        <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200">Order Now</button>
+                                        <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
+                                                const message = `Hello, saya ingin memesan: ${img} ${name} ${description}`;
+                                                const waUrl = `https://wa.me/6281337575950?text=${encodeURIComponent(message)}`;
+                                                window.open(waUrl, '_blank');
+                                            }}>Order</button>
                                     </div>
                                 </div>
                         })}

@@ -1,5 +1,5 @@
 import React from "react";
-import Food1 from "../../assets/website/wedding-cake.png";
+import Food1 from "../../../public/website/wedding-cake.png";
  
 const Banner = () => {
     return (

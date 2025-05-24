@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/food-logo.png";
+import Logo from "../../../public/food-logo.png";
 // import {FaCartShopping} from "react-icons/fa6";
 import DarkMode from "./DarkMode";
 import { Link } from "react-scroll";

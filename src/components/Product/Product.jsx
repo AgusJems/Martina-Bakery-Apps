@@ -1,7 +1,7 @@
 import React from "react";
-import Img1 from "../../assets/website/birthday-cake.png";
-import Img2 from "../../assets/website/brownies.png";
-import Img3 from "../../assets/website/bolu.png";
+import Img1 from "../../../public/website/birthday-cake.png";
+import Img2 from "../../../public/website/brownies.png";
+import Img3 from "../../../public/website/bolu.png";
 import { Link } from "react-router-dom";
 
 const ProductData = [ 

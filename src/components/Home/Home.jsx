@@ -1,8 +1,8 @@
 import React from "react";
-import bgImg from "../../assets/website/bg-vector.png";
-import Food1 from "../../assets/website/birthday-cake.png";
-import Food2 from "../../assets/website/brownies.png";
-import Food3 from "../../assets/website/bolu.png";
+import bgImg from "../../../public/website/bg-vector.png"
+import Food1 from "../../../public/website/birthday-cake.png";
+import Food2 from "../../../public/website/brownies.png";
+import Food3 from "../../../public/website/bolu.png";
 
 const ImageList = [ 
     {
