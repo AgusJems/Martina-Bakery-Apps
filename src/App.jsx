@@ -11,6 +11,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import BirthdayCake from "./components/BirthdayCake/BirthdayCake";
 import BrowniesCake from "./components/BrowniesCake/BrowniesCake";
 import BoluCake from "./components/BoluCake/BoluCake";
+import ScrollToTop from "./ScrollToTop";
 
 const App = () => {
   React.useEffect(() => {
@@ -28,6 +29,7 @@ const App = () => {
       <div className="bg-white dark:dark:bg-gray-900 dark:text-white duration-200">
         <Navbar />
 
+      <ScrollToTop />
         <Routes>
           <Route path="/" element={
             <>
