@@ -72,7 +72,7 @@ const BirthdayCake = () => {
                                         <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
                                                 // const imageUrl = `https://martina-bakery-apps.vercel.app/website/${img}`;
                                                 const message = `Hello, saya ingin memesan:\n\nNama: ${name}\nDeskripsi: ${description}`;
-                                                const waUrl = `https://wa.me/6281337575950?text=${encodeURIComponent(message)}`;
+                                                const waUrl = `https://wa.me/6285876064192?text=${encodeURIComponent(message)}`;
                                                 window.open(waUrl, '_blank');
                                             }}>Order</button>
                                     </div>

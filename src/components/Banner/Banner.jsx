@@ -22,7 +22,11 @@ const Banner = () => {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ab sed, exercitationem minima aliquid eligendi distinctio? Fugit repudiandae numquam hic quo recusandae. Excepturi totam ad nam velit quasi quidem aspernatur.
                             </p>
                             <div>
-                                <button className="bg-gradient-to-r from-primary to-secondary text-white px-6 py-3 rounded-full hover:scale-105 duration-200">Order Now</button>
+                                <button className="bg-gradient-to-r from-primary to-secondary text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
+                                    const message = `Hello, saya ingin memesan: Wedding Cake`;
+                                    const waUrl = `https://wa.me/6285876064192?text=${encodeURIComponent(message)}`;
+                                    window.open(waUrl, '_blank');
+                                    }}>Order Now</button>
                             </div>
                         </div>
                     </div>

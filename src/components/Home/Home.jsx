@@ -3,6 +3,7 @@ import bgImg from "../../../public/website/bg-vector.png"
 import Food1 from "../../../public/website/birthday-cake.png";
 import Food2 from "../../../public/website/brownies.png";
 import Food3 from "../../../public/website/bolu.png";
+import { Link } from "react-router-dom";
 
 const ImageList = [ 
     {
@@ -48,7 +49,8 @@ const Home = () => {
                             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold"> <span className="font-[Merienda] text-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">Martina Bakery</span></h1>
                             <p className="text-sm">Martina Bakery adalah perpaduan antara rasa autentik dan tampilan elegan. Kami menghadirkan aneka kue dan roti dengan kualitas terbaik, dibuat dengan cinta dan bahan pilihan, untuk setiap momen spesial Anda.</p>
                             <div>
-                                <button className="bg-gradient-to-r from-primary to-secondary text-white px-4 py-2 rounded-full hover:scale-105 duration-200"> Order Now</button>
+                                <Link to="/birthday_cake">
+                                <button className="bg-gradient-to-r from-primary to-secondary text-white px-4 py-2 rounded-full hover:scale-105 duration-200"> Order Now</button></Link>
                             </div>
                         </div>
                         <div className="order-1 sm:order-2 min-h-[550px] sm:min-h-[550px] flex justify-center items-center relative">

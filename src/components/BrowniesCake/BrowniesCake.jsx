@@ -71,7 +71,7 @@ const BrowniesCake = () => {
                                         <p className="text-gray-500 group-hover:text-white duration-300 text-sm line-clamp-2 mb-3">{description}</p>
                                         <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
                                                 const message = `Hello, saya ingin memesan: ${img} ${name} ${description}`;
-                                                const waUrl = `https://wa.me/6281337575950?text=${encodeURIComponent(message)}`;
+                                                const waUrl = `https://wa.me/6285876064192?text=${encodeURIComponent(message)}`;
                                                 window.open(waUrl, '_blank');
                                             }}>Order</button>
                                     </div>
