@@ -68,7 +68,7 @@ const BirthdayCake = () => {
                                     </div> */}
                                     <div className="p-4 text-center">
                                         <img src={img} alt="" className="max-w-[120px] mx-auto group-hover:scale-105 group-hover:rotate-6 duration-300 mb-3"/>
-                                        <h1 className="text-xl font-[Merienda] font-bold">{name}</h1>
+                                        <h1 className="text-lg font-[Merienda] font-bold">{name}</h1>
                                         <p className="text-gray-500 group-hover:text-white duration-300 text-sm line-clamp-2 mb-3">{description}</p>
                                         <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
                                                 // const imageUrl = `https://martina-bakery-apps.vercel.app/website/${img}`;
