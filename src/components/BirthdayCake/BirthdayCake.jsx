@@ -48,12 +48,11 @@ const BirthdayCake = () => {
         <div className="py-10" id='catalog'>
             <div className="container">
                 <div className="text-center mb-5 max-w-[400px] mx-auto">
-                    <p className="text-sm bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"> Birthday Cake Pages</p>
+                    <p className="text-sm bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"> Birthday Cake</p>
                     <h1 className="text-3xl font-bold mb-2">Birthday Cake</h1>
                     <p className="text-xs text-gray-400">
                         {""} 
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                        Vero nesciunt explicabo a! Laborum delectus aliquam labore, earum rerum quam! Nulla?
+                        Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta.
                     </p>
                 </div>
                 <div> 
