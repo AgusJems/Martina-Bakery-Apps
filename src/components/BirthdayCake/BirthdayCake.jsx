@@ -57,17 +57,18 @@ const BirthdayCake = () => {
                     </p>
                 </div>
                 <div> 
-                    <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-14 md:gap-5 place-items-center">
+                    <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-4 md:gap-5 place-items-center">
                         {BirthDayCakeData.map(({id, img, name, description}) => {
                             return <div
                                 data-aos="zoom-out"
                                 data-aos-duration="300" 
                                 key={id} className="max-w-[300px] group rounded-2xl bg-white dark:bg-gray-800 dark:hover:bg-primary hover:bg-primary hover:text-white duration-300 shadow-xl">
-                                    <div className="h-[100px]">
+                                    {/* <div className="h-[100px]">
                                         <img src={img} alt="" className="max-w-[150px] mx-auto block transform -translate-y-14 group-hover:scale-105 group-hover:rotate-6 duration-300"/>
-                                    </div>
+                                    </div> */}
                                     <div className="p-4 text-center">
-                                        <h1 className="text-xl font-bold">{name}</h1>
+                                        <img src={img} alt="" className="max-w-[120px] mx-auto group-hover:scale-105 group-hover:rotate-6 duration-300 mb-3"/>
+                                        <h1 className="text-xl font-[Merienda] font-bold">{name}</h1>
                                         <p className="text-gray-500 group-hover:text-white duration-300 text-sm line-clamp-2 mb-3">{description}</p>
                                         <button className="bg-gradient-to-r from-gdtwo to-gdone text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {
                                                 // const imageUrl = `https://martina-bakery-apps.vercel.app/website/${img}`;
