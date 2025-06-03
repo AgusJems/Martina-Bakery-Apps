@@ -73,7 +73,7 @@ const BoluCake = () => {
                     </p>
                 </div>
                 <div> 
-                    <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-14 md:gap-5 place-items-center">
+                    <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-6 gap-14 md:gap-5 place-items-center">
                         {BoluCakeData.map(({id, img, name, description}) => {
                             return <div
                                 data-aos="zoom-out"
