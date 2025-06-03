@@ -7,31 +7,31 @@ const BrowniesCakeData = [
     {
         id:1,
         img: Img1,
-        name: "Birhtday Cake",
+        name: "Choco Cheese",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:2,
         img: Img2,
-        name: "Brownies Cake",
+        name: "Brownies Potong",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:3,
         img: Img3,
-        name: "Bolu Cake",
+        name: "Choco Tiramisu",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:4,
         img: Img3,
-        name: "Bolu Cake",
+        name: "Tiramisu",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:5,
         img: Img3,
-        name: "Bolu Cake",
+        name: "Matcha Tiramisu",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {

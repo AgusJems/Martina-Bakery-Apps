@@ -16,10 +16,10 @@ const Banner = () => {
                                 Wedding Cake
                             </h1>
                             <p className="text-sm text-gray-500 tracking-wide leading-5">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio
+                                Nikmati kombinasi rasa yang lezat dan tampilan yang mempesona, cocok untuk menciptakan kenangan tak terlupakan.
                                 <br/>
                                 <br/>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ab sed, exercitationem minima aliquid eligendi distinctio? Fugit repudiandae numquam hic quo recusandae. Excepturi totam ad nam velit quasi quidem aspernatur.
+                                Rayakan momen spesial Anda dengan kue pernikahan elegan yang dirancang khusus untuk hari istimewa. Dibuat dengan bahan berkualitas tinggi dan sentuhan dekorasi artistik yang memukau, kue ini menjadi pusat perhatian dalam setiap pesta pernikahan.
                             </p>
                             <div>
                                 <button className="bg-gradient-to-r from-primary to-secondary text-white px-6 py-3 rounded-full hover:scale-105 duration-200" onClick={() => {

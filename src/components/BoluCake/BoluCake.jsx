@@ -1,43 +1,60 @@
 import React from 'react';
-import Img1 from "../../../public/website/birthday-cake.png";
-import Img2 from "../../../public/website/brownies.png";
-import Img3 from "../../../public/website/bolu.png";
+import bolu1 from "../../../public/website/bolu1.png";
+import bolu2 from "../../../public/website/bolu2.png";
+import bolu3 from "../../../public/website/bolu3.png";
+import bolu4 from "../../../public/website/bolu4.png";
+import bolu5 from "../../../public/website/bolu5.png";
+import bolu6 from "../../../public/website/bolu6.png";
+import bolu7 from "../../../public/website/bolu7.png";
+import bolu8 from "../../../public/website/bolu8.png";
 
 const BoluCakeData = [ 
     {
         id:1,
-        img: Img1,
-        name: "Birhtday Cake",
+        img: bolu1,
+        name: "Ketan Hitam",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:2,
-        img: Img2,
-        name: "Brownies Cake",
+        img: bolu2,
+        name: "Choco Cheese",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:3,
-        img: Img3,
-        name: "Bolu Cake",
+        img: bolu3,
+        name: "Keju Panggang",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:4,
-        img: Img3,
-        name: "Bolu Cake",
+        img: bolu4,
+        name: "Putu Gula Merah",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:5,
-        img: Img3,
-        name: "Bolu Cake",
+        img: bolu6,
+        name: "Matcha Choco",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:6,
-        img: Img3,
-        name: "Bolu Cake",
+        img: bolu5,
+        name: "Ketan Hitam Choco",
+        description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
+    },
+    {
+        id:7,
+        img: bolu7,
+        name: "Bolu Tape",
+        description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
+    },
+    {
+        id:8,
+        img: bolu8,
+        name: "Ketan Hitam Cheese",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
 ]
