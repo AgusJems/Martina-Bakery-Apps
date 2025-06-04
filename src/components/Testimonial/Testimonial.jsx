@@ -4,20 +4,20 @@ import Slider from "react-slick";
 const testimonialData = [
     {
         id: 1,
-        name: "Agus Saf",
-        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+        name: "Lisa",
+        text: "Rotinya lembut, enak. rekomendasi banget",
         img: "https://picsum.photos/101/101"
     },
     {
         id: 2,
-        name: "Jahfal",
-        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+        name: "Ayu",
+        text: "Kuenya cantik banget! Desainnya sesuai request, rasanya juga lembut dan gak terlalu manis. Semua tamu suka! Terima kasih, pasti order lagi.",
         img: "https://picsum.photos/102/102"
     },
     {
         id: 3,
-        name: "Wafi",
-        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+        name: "Nina",
+        text: "Bolunya moist banget! Rasa cokelatnya rich dan nggak bikin enek. Anak-anak juga doyan banget",
         img: "https://picsum.photos/103/103"
     },
 ]
