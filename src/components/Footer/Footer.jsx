@@ -45,7 +45,7 @@ const Footer = () => {
                                     </ul>
                                 </div>
                             </div>
-                            <div>
+                            {/* <div>
                                 <div className="py-8 px-4 text-white">
                                     <h1 className="text-xl font-bold text-justify sm:text-left mb-3">About</h1>
                                     <ul className="flex flex-col gap-3">
@@ -54,7 +54,7 @@ const Footer = () => {
                                         <li>Contact</li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                             <div>
                                 <div className="py-8 px-4 text-white">
                                     <h1 className="text-xl font-bold text-justify sm:text-left mb-3">Social Media</h1>
