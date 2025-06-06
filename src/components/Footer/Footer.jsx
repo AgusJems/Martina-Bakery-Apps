@@ -69,7 +69,7 @@ const Footer = () => {
                     </div>
                     <div>
                         <div className="text-center py-10 border-t-2 border-gray-300/50 text-white">
-                        © 2025 AgusSafru</div>
+                        Martina Bakery</div>
                     </div>
                 </div>
             </div>
