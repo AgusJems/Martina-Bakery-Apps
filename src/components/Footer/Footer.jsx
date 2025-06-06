@@ -41,7 +41,7 @@ const Footer = () => {
                                     <ul className="flex flex-col gap-3">
                                         <li>Browse Caketime</li>
                                         <li>Browse Cokkiestime</li>
-                                        <li>Location</li>
+                                        <li><a href="https://maps.app.goo.gl/keudzawaYxpSy6hb8">Location</a></li>
                                     </ul>
                                 </div>
                             </div>
