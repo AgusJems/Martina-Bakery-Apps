@@ -13,56 +13,56 @@ const BoluCakeData = [
         id:1,
         img: bolu1,
         name: "Ketan Hitam",
-        price: "Rp. 150.000",
+        price: "Rp. 30.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:2,
         img: bolu2,
         name: "Choco Cheese",
-        price: "Rp. 150.000",
+        price: "Rp. 20.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:3,
         img: bolu3,
         name: "Keju Panggang",
-        price: "Rp. 150.000",
+        price: "Rp. 20.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:4,
         img: bolu4,
         name: "Putu Gula Merah",
-        price: "Rp. 150.000",
+        price: "Rp. 20.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:5,
         img: bolu6,
         name: "Matcha Choco",
-        price: "Rp. 150.000",
+        price: "Rp. 30.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:6,
         img: bolu5,
         name: "Ketan Hitam Choco",
-        price: "Rp. 150.000",
+        price: "Rp. 30.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:7,
         img: bolu7,
         name: "Bolu Tape",
-        price: "Rp. 150.000",
+        price: "Rp. 20.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
     {
         id:8,
         img: bolu8,
         name: "Ketan Hitam Cheese",
-        price: "Rp. 150.000",
+        price: "Rp. 30.000",
         description: "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit"
     },
 ]

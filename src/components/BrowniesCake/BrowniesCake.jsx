@@ -12,49 +12,49 @@ const BrowniesCakeData = [
         id:1,
         img: brownies6,
         name: "Choco Cheese",
-        price: "Rp. 150.000",
+        price: "Rp. 25.000 / pcs",
         description: "Brownies lembut dengan cokelat premium dan topping keju melimpah yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:2,
         img: brownies2,
         name: "Brownies Potong",
-        price: "Rp. 150.000",
+        price: "Rp. 45.000",
         description: "Brownies lembut dengan cokelat premium dan topping kacang yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:3,
         img: brownies5,
         name: "Choco Tiramisu",
-        price: "Rp. 150.000",
+        price: "Rp. 10.000 / pcs",
         description: "Brownies lembut dengan cokelat premium dan tiramisu yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:4,
         img: brownies3,
         name: "Tiramisu",
-        price: "Rp. 150.000",
+        price: "Rp. 25.000",
         description: "Brownies lembut dengan tiramisu dan topping stroberi segar yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:5,
         img: brownies7,
         name: "Matcha Tiramisu",
-        price: "Rp. 150.000",
+        price: "Rp. 10.000",
         description: "Brownies lembut dengan rasa matcha dan tiramisu yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:6,
         img: brownies1,
         name: "Choco",
-        price: "Rp. 150.000",
+        price: "Rp. 15.000",
         description: "Brownies lembut dengan cokelat premium dan topping stroberi segar yang menggoda, sempurna untuk camilan atau hadiah."
     },
     {
         id:6,
         img: brownies4,
         name: "Choco Vanilla",
-        price: "Rp. 150.000",
+        price: "Rp. 25.000",
         description: "Brownies lembut dengan cokelat premium, vanilla dan topping stroberi segar yang menggoda, sempurna untuk camilan atau hadiah."
     },
 ]
