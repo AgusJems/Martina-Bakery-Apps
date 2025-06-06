@@ -34,210 +34,210 @@ const BirthDayCakeData = [
     {
         id:1,
         img: ultah1,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 1",
         price: "Rp. 60.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:2,
         img: ultah2,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 2",
         price: "Rp. 125.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:3,
         img: ultah3,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 3",
         price: "Rp. 200.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:4,
         img: ultah4,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 4",
         price: "Rp. 120.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:5,
         img: ultah5,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 5",
         price: "Rp. 150.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:6,
         img: ultah6,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 6",
         price: "Rp. 65.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:7,
         img: ultah7,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 7",
         price: "Rp. 125.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:8,
         img: ultah8,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 8",
         price: "Rp. 80.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:9,
         img: ultah9,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 9",
         price: "Rp. 50.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:10,
         img: ultah10,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 10",
         price: "Rp. 60.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:11,
         img: ultah11,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 11",
         price: "Rp. 175.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:12,
         img: ultah12,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 12",
         price: "Rp. 65.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:13,
         img: ultah13,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 13",
         price: "Rp. 125.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:14,
         img: ultah14,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 14",
         price: "Rp. 125.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:15,
         img: ultah15,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 15",
         price: "Rp. 50.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:16,
         img: ultah16,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 16",
         price: "Rp. 70.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:17,
         img: ultah17,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 17",
         price: "Rp. 65.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:18,
         img: ultah18,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 18",
         price: "Rp. 175.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:19,
         img: ultah19,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 19",
         price: "Rp. 150.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:20,
         img: ultah20,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 20",
         price: "Rp. 150.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:21,
         img: ultah21,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 21",
         price: "Rp. 50.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:22,
         img: ultah22,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 22",
         price: "Rp. 100.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:23,
         img: ultah23,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 23",
         price: "Rp. 110.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:24,
         img: ultah24,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 24",
         price: "Rp. 50.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:25,
         img: ultah25,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 25",
         price: "Rp. 110.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:26,
         img: ultah26,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 26",
         price: "Rp. 50.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:27,
         img: ultah27,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 27",
         price: "Rp. 85.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:28,
         img: ultah28,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 28",
         price: "Rp. 150.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:29,
         img: ultah29,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 29",
         price: "Rp. 230.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
     {
         id:30,
         img: ultah30,
-        name: "Birhtday Cake",
+        name: "Birhtday Cake 30",
         price: "Rp. 125.000",
         description:"Kue ulang tahun spesial dengan dekorasi cantik dan rasa lezat, cocok untuk momen istimewa Anda dan orang tercinta."
     },
